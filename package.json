@@ -1,0 +1,12 @@
+{
+  "name": "lowlowlow",
+  "version": "1.0.0",
+  "description": "get low low low",
+  "main": "index.js",
+  "repository": "#",
+  "author": "Miguel Palau <mpalauzarza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.18.4"
+  }
+}
